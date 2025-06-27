@@ -1,0 +1,62 @@
+{
+  "stations": [
+    {
+      "id": 1,
+      "name": "Shell Westlands",
+      "brand": "Shell",
+      "location": "Westlands",
+      "fuelTypes": ["Petrol", "Diesel"],
+      "pricePerLitre": {
+        "Petrol": 185.2,
+        "Diesel": 170.6
+      },
+      "services": ["Car Wash", "Mini Market"]
+    },
+    {
+      "id": 2,
+      "name": "Total Kileleshwa",
+      "brand": "Total",
+      "location": "Kileleshwa",
+      "fuelTypes": ["Petrol"],
+      "pricePerLitre": {
+        "Petrol": 182.5
+      },
+      "services": ["Mini Market"]
+    },
+    {
+      "id": 3,
+      "name": "Rubis Lang'ata",
+      "brand": "Rubis",
+      "location": "Lang'ata",
+      "fuelTypes": ["Diesel"],
+      "pricePerLitre": {
+        "Diesel": 169.9
+      },
+      "services": ["Car Wash"]
+    },
+    {
+      "id": 4,
+      "name": "Shell Karen",
+      "brand": "Shell",
+      "location": "Karen",
+      "fuelTypes": ["Petrol", "Diesel"],
+      "pricePerLitre": {
+        "Petrol": 184.0,
+        "Diesel": 171.2
+      },
+      "services": []
+    },
+    {
+      "id": 5,
+      "name": "Total Roysambu",
+      "brand": "Total",
+      "location": "Roysambu",
+      "fuelTypes": ["Petrol", "Diesel"],
+      "pricePerLitre": {
+        "Petrol": 183.3,
+        "Diesel": 170.0
+      },
+      "services": ["Car Wash", "Mini Market"]
+    }
+  ]
+}
