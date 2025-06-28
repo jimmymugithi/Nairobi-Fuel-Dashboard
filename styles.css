@@ -3,7 +3,7 @@ body {
   margin: 0;
   padding: 1rem;
   background: #f4f4f4;
-  color: #330;
+  color: #333;
   transition: background 0.3s, color 0.3s;
 }
 
@@ -11,7 +11,7 @@ header {
   display: flex;
   flex-direction: column;
   align-items: center;
-  gap: 9px;
+  gap: 10px;
 }
 
 #stations-container {
