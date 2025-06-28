@@ -5,7 +5,7 @@
 **PetroTrack** is a Single Page Application (SPA) that allows users in Nairobi, Kenya to view and compare fuel stations by price, brand, location, fuel types, and available services. It is built using **HTML**, **CSS**, and **JavaScript**, and uses a mock REST API provided by `json-server`.
 
 Users can:
-- See a list of fuel stations in Nairobi.
+- View a list of fuel stations in Nairobi.
 - Find stations by name or location.
 - Select stations by fuel brand (e.g., Shell, Total, Rubis).
 - Toggle between light and dark themes for better user experience.
