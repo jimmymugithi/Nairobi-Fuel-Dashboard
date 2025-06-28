@@ -12,7 +12,7 @@ Users can:
 
 ---
 
-## 🎯 Project Deliverables and objectives
+## 🎯 Project Deliverables and Objectives
 
 This project demonstrates the following JavaScript and frontend development concepts:
 
