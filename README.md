@@ -7,7 +7,7 @@
 Users can:
 - View a list of fuel stations in Nairobi.
 - Search stations by name or location.
-- Select stations by fuel brand (e.g., Shell, Total, Rubis).
+- Find stations by fuel brand (e.g., Shell, Total, Rubis).
 - Toggle between light and dark themes for better user experience.
 
 ---
